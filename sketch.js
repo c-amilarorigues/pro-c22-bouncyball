@@ -6,7 +6,7 @@ var mecanismo, mundo;
 var solo, bola;
 
 function setup(){
-    var canvas = createCanvas(400,400);
+    var tela = createCanvas(400,400);
     mecanismo = Mecanismo.create();
     mundo = mecanismo.mundo;
 
