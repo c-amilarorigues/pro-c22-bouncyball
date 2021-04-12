@@ -1,2 +1,2 @@
-# pro-c22-bouncyball
+# bouncyBall
 Bouncy Ball created using matter.js physics engine
